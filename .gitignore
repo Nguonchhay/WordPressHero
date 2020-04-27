@@ -1,0 +1,6 @@
+# Files
+wp-config.php
+
+# Folders
+.idea/
+/wp-content/cache
